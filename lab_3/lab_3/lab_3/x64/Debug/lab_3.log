@@ -1,0 +1,5 @@
+﻿  lab_3.cpp
+D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\lab_3\lab_3\lab_3\lab_3.cpp(227,25): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\lab_3\lab_3\lab_3\lab_3.cpp(251,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\lab_3\lab_3\lab_3\lab_3.cpp(258,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab_3.vcxproj -> D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\lab_3\lab_3\x64\Debug\lab_3.exe
