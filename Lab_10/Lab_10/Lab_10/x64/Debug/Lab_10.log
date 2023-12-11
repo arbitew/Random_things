@@ -1,0 +1,4 @@
+﻿  Lab_10.cpp
+D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\Lab_10\Lab_10\Lab_10\Lab_10.cpp(140,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\Lab_10\Lab_10\Lab_10\Lab_10.cpp(92): warning C4715: Dir::findD: значение возвращается не при всех путях выполнения
+  Lab_10.vcxproj -> D:\РХТУ\Studying\Course 3\semester 5\Cpp_learning\Labs\Lab_10\Lab_10\x64\Debug\Lab_10.exe
