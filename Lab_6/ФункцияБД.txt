@@ -1,0 +1,12 @@
+Create or replace function Period(
+in a date,
+in b date
+) 
+returns TABLE(myDate date, concentration int)
+as $$
+begin
+ return QUERY(select "Date", "Concentration" from "Acid_production" where "Acid_production"."Date" > a
+ and "Acid_production"."Date" < b);
+end; $$ language plpgsql;
+SELECT * FROM Period('1991-01-03', '1993-01-15')
+ 
